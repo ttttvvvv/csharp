@@ -1,6 +1,6 @@
 using System;
 
-namespace eindopdracht
+namespace naamplek
 {
     class MainClass
     {
